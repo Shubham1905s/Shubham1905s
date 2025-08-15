@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Shubham1905s/Shubham1905s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="1600" height="400" alt="Welcome To (6)" src="https://github.com/user-attachments/assets/82fb9060-e609-442b-9fd5-455ed5bcf9e5" />
+
+
+
+#  Shubham Mirashi
+
+🎓 Final Year Information Science Engineering Student at **KLS Gogte Institute of Technology**  
+💡 Passionate about building real-world projects and solving problems through technology  
+🚀 Always eager to learn, innovate, and share knowledge  
+
+---
+
+## 🛠 Skills
+- **Programming Languages:** Python, JavaScript, C++
+- **Frameworks:** Django, React Native  
+- **Databases:** MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman
+
+---
+
+## 📬 Contact Me
+- **Email:** shubhammirashi303@gmail.com  
+- **LinkedIn:** [Shubham Mirashi](www.linkedin.com/in/shubham-mirashi)  
+- **GitHub:** [GitHub](https://github.com/Shubham1905s)
+- **Resume:** [My Resume](https://github.com/user-attachments/files/21791961/Resume.pdf)
+
+---
+
+⭐ *"Code, Create, and Contribute."*
