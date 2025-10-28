@@ -29,4 +29,4 @@
 
 ---
 
-⭐ *"Code, Create, and Contribute."*
+⭐ *i code*
