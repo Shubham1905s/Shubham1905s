@@ -15,9 +15,10 @@
 
 ## 🛠 Skills
 - **Programming Languages:** Python, JavaScript, C++
-- **Frameworks:** Django, React Native  
+- **Frameworks:** Django, React Native, Next.js 
 - **Databases:** MySQL
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Docker
+- **Competitive Programming:** LeetCode, HackerRank, GFG. 
 
 ---
 
