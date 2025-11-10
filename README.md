@@ -8,7 +8,7 @@
 #  Shubham Mirashi.
 
 🎓 Final Year Information Science Engineering Student at **KLS Gogte Institute of Technology, Belagavi.**  
-💡 Passionate about building Real-world Projects and Solving problems through technology.
+💡 Passionate about Building Real-world Projects and Solving problems through technology.
 🚀 Always eager to learn, innovate, and Share Knowledge.  
 
 ---
