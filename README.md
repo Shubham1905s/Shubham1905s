@@ -6,8 +6,8 @@
 
 
 #  Shubham Mirashi.
-
-🎓 Final Year Information Science Engineering Student at **KLS Gogte Institute of Technology, Belagavi.**  
+🖥️ Associate AI Engineer
+🎓 Information Science Engineering Student at **KLS Gogte Institute of Technology, Belagavi.**  
 💡 Passionate about building real-world projects and solving problems through technology.
 🚀 Always eager to learn, innovate, and share knowledge.  
 
