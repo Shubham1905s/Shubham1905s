@@ -27,6 +27,7 @@
 - **LinkedIn:** [Shubham Mirashi](www.linkedin.com/in/shubham-mirashi)  
 - **GitHub:** [GitHub](https://github.com/Shubham1905s)
 - **Resume:** [My Resume](https://github.com/user-attachments/files/21791961/Resume.pdf)
+- **LeetCode:** [LeetCode Acc](https://leetcode.com/u/shubhammirashi303/)
 
 ---
 
